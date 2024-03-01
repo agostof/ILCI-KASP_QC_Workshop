@@ -5,6 +5,8 @@
 
 # SET your working directory to where you downloaded the data!
 #setwd("~/Desktop/KASP_QC_Workshop 2/")
+setwd("~/ILCI-KASP_QC_Workshop/")
+
 
 # Looking at your directory
 getwd()
